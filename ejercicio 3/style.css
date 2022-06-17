@@ -1,0 +1,34 @@
+body{
+    background-color: #212121;
+}
+.h{
+    font-family: 'Indie Flower';
+    font-size: 100px;
+    font-weight: 400;
+    color: chocolate;
+    text-align: center;
+
+}
+.r{
+    color: lightblue;
+    text-decoration: none;
+}
+.topo{
+    font-family: 'Tiro Kannada';
+    font-size: 40px;
+    font-weight: 300;
+    color: coral;
+    font-style: italic;
+}
+.te{
+    font-size: 30px;
+    font-weight: 200;
+    color: white;
+}
+.pata{
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+
+    font-weight: 500;
+    color: orange;
+}

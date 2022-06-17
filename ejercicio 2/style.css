@@ -1,0 +1,22 @@
+body{
+    background-color: #212121;
+}
+.tc{
+    font-family: 'Montserrat';
+    font-size: 48px;
+    font-weight: 700;
+    color: #FAFAFA;
+}
+.colo{
+    font-size: 60px;
+    font-weight: 800;
+    color: coral;
+}
+.le{
+    color: rgba(224, 147, 118, 0.945);
+}
+.we{
+    font-size: 70px;
+    font-weight: 800;
+    color: chocolate;
+}
